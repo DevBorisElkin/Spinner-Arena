@@ -13,8 +13,6 @@ https://docs.google.com/document/d/14-brlk4PjJPM29aRz0aU89EMQQ1MqZtWY0Rixwz3oMc/
 Приложение, которое получилось:
 https://play.google.com/store/apps/details?id=com.BlueRockProductions.SpinnerArena
 
-Код: https://github.com/DevBorisElkin/Spinner-Arena
-
 Комментарии к выполненному заданию: 
 Реализована механика толкания других игроков, механика подкидывания игрока когда тот выходит за границы арены(даёт возможность вернуться), механика роста(level_up) при убийстве игрока, также реализован простой AI.
 
